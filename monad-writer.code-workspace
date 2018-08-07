@@ -1,0 +1,39 @@
+{
+  "folders": [
+    {
+      "name": "Spec",
+      "path": "./spec"
+    },
+    {
+      "name": "Source code",
+      "path": "./src"
+    },
+    {
+      "name": "VSCode settings",
+      "path": "./.vscode"
+    },
+    {
+      "name": "Misc",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "debug.toolBarLocation": "docked",
+    "files.exclude": {
+      "**/src": true,
+      "**/.vscode": true,
+      "**/*-lock.json": true,
+      "**/.git": true,
+      "**/.DS_Store": true,
+      "**/node_modules": true,
+      "**/spec": true
+    },
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "Blackfont",
+    "editor.fontSize": 24,
+    "editor.lineHeight": 34,
+    "editor.letterSpacing": 0,
+    "editor.formatOnSave": true,
+    "eslint.autoFixOnSave": true,
+  }
+}

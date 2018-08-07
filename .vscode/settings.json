@@ -1,0 +1,10 @@
+{
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "Blackfont",
+  "editor.fontSize": 24,
+  "editor.lineHeight": 34,
+  "editor.letterSpacing": 0,
+  "editor.formatOnSave": true,
+  "eslint.autoFixOnSave": true,
+  "debug.toolBarLocation": "docked"
+}
